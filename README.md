@@ -7,7 +7,7 @@
 Serverlar MAMP dosyasının içinde bulunan 'htdocs' dosyasını renderlar.
 
 ## GitHub Kurulumu
-1. Bu repository'i kurmak istediğiniz dosyayı terminalde açınız.
+1. Terminalde MAMP uygulamasının 'htdocs' dosyasını açınız.
 2. Terminale aşağıdaki kodu yapıştırınız.
 `git clone https://github.com/muhammedkartci/php_lessons.git`
 
@@ -20,3 +20,6 @@ Serverlar MAMP dosyasının içinde bulunan 'htdocs' dosyasını renderlar.
 # Ders İçerikleri
 
 ## Ders 1 - Lesson_1
+Değişkenler
+## Ders 2 - Lesson_2
+Temel Döngüler ve Koşullar
