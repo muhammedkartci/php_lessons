@@ -22,6 +22,18 @@ Serverlar MAMP dosyasının içinde bulunan 'htdocs' dosyasını renderlar.
         ![image info](assets\images\phpMyAdmin-yeni-tablo.PNG)
     3. Sütunların ismini giriyoruz. Herbir tablo için 'id' sütunu koymanızı ve sağ taraftan `A.I` kutusunu işaretlemenizi öneririz. Bu seçenek, tabloda bulunan her eleman için farklı bir id yani ayırt edici bir özellik demektir.
         ![image info](assets\images\phpMyAdmin-yeni-tablo-sütun.PNG)
+
+## phpMyAdmin Tabloya Veri Ekleme
+
+ 1. Yukarıda "Ekle" butonuna tıklayınız.
+    ![image info](assets\images\phpMyAdmin-ekle-butonu.png)
+ 2. Sonra sütunların değerlerini giriniz.
+    ![image info](assets\images\phpMyAdmin-ekle-butonu-bilgi-kısmı.PNG)
+ 3. Bilgilerinizi girdikten sonra "Git" butonuna tıklayınız.
+     ![image info](assets\images\git-butonu.PNG)
+ 4. Bilgileriniz bir tablo haline geldiğini görmek için "Gözat" butonuna tıklayınız.
+    ![image info](assets\images\gözat-butonu.PNG)
+
 ## GitHub Kurulumu
 1. Terminalde MAMP uygulamasının 'htdocs' dosyasını açınız.
 2. Terminale aşağıdaki kodu yapıştırınız.
